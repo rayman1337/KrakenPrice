@@ -22,7 +22,7 @@ Turn your NZXT Kraken into a **live Bitcoin price display**!
 ### 🌐 Option 1: Hosted Version (Easiest!)
 No installation needed! Just paste this in NZXT CAM Web Integration:
 
-http://krakenprice.runasp.net/
+https://krakenprice.runasp.net/
 
 ✅ Always online  
 ✅ Auto-updates  
