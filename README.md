@@ -41,5 +41,21 @@ http://krakenprice.runasp.net/
 2. cd krakenprice
 3. dotnet run
 
-### 📝 License
-MIT License - do whatever you want!
+## 💬 Contributing
+Pull requests are welcome!  
+If you’d like to add new features (extra coin support, new animations, etc.), just fork the repo and submit a PR.
+
+## ⭐ Support
+If you find KrakenPrice useful:
+- Star the repo ⭐  
+- Follow [@rayman_1337](https://x.com/rayman_1337) on Twitter/X for updates  
+- Share screenshots of your Kraken display setup!
+
+## 🛠️ Tech Stack
+- **.NET 8 / C#**  
+- **Minimal API** + **HttpClient**  
+- **HttpClientFactory** for stable API calls and automatic failover  
+- **HTML5 Canvas** for animations  
+
+## 📝 License
+MIT License – do whatever you want!
