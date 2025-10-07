@@ -12,7 +12,6 @@ Turn your NZXT Kraken into a **live Bitcoin price display**!
 - ⚡ **No API keys required** - works out of the box
 - 🔄 **Auto-failover** - Binance → Coinbase → Kraken → Bitstamp
 - 🌐 **Hosted option** - use without downloading anything
-- 🔒 **HTTPS ready** - secure by default
 
 ## 🎥 See it in action
 
@@ -31,7 +30,7 @@ http://krakenprice.runasp.net/
 
 ### 💻 Option 2: Run Locally (Private & Faster)
 1. **Download** the [latest release](https://github.com/rayman1337/krakenprice/releases)
-2. **Run** `KrakenPrice.exe` (Windows) or `./KrakenPrice` (Linux/Mac)
+2. **Run** `KrakenPrice.exe`
 3. **Open NZXT CAM** → Web Integration
 4. **Enter URL**: `http://localhost:8080`
 5. **Done!** 🎉
