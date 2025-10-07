@@ -37,7 +37,7 @@ http://krakenprice.runasp.net/
 5. **Done!** 🎉
 
 ### 👨‍💻 Option 3: For Developers
-1. git clone https://github.com/yourusername/krakenprice
+1. git clone https://github.com/rayman1337/krakenprice
 2. cd krakenprice
 3. dotnet run
 
